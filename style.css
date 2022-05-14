@@ -1,0 +1,37 @@
+#main {
+    max-height: 100%;
+    margin: 30px auto;
+    padding: 15px;
+    background-color: #dddddd;
+    border-radius: 5px;
+}
+#title{
+    text-align: center;
+}
+#img-div{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+}
+#image{
+    display: block;
+    max-width: 100%;
+    height:auto;
+}
+#tribute-info{
+    max-width: 600px;
+    margin: 0 auto;
+}
+#quote{
+    text-align: center;
+    font-size: 14px;
+}
+footer{
+    font-size: 20px;
+    text-align: center;
+}
+#tribute-link{
+    font-size: 20px;
+    text-align: center;
+}
